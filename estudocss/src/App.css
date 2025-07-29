@@ -1,0 +1,38 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.conteudo
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+h1
+{
+    color : white;
+    background-color: blueviolet;
+    margin : 0;
+    padding : 20px;
+    text-align: center;
+}
+
+li
+{
+    color : #87CEEB:
+}
+
+img
+{
+    width: 500px;
+    border : 5px  solid rgb(189, 9, 9);
+    border-radius: 85px;
+}
+
+.centro
+{
+    text-align: center;
+}
