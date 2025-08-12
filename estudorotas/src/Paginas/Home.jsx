@@ -11,7 +11,19 @@ export default function Home()
                 <li><a href="/rj">Rio de Janeiro</a></li>
                 <li><a href="/mg">Minas Gerais</a></li>
                 <li><a href="/es">Espirito Santo</a></li>
+                <li><a href="/sc">Santa Catarina</a></li>
+                <li><a href="/pr">Paraná</a></li>
+                <li><a href="/rs">Rio Grande do Sul</a></li>
             </ul>
+
+            <h3>Estados da região Sul</h3>
+            <ul>
+            <li><a href="/sc">Santa Catarina</a></li>
+                <li><a href="/pr">Paraná</a></li>
+                <li><a href="/rs">Rio Grande do Sul</a></li>
+            </ul>
+
+            <h3></h3>
         </div>
     )
 }

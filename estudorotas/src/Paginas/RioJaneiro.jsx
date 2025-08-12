@@ -15,7 +15,7 @@ Perguntar ao ChatGPT
             </p>
 
             <p>
-                <img src="" alt=""/>
+                <img src="/RJ.png" alt=""/>
             </p>
 
             <p>
