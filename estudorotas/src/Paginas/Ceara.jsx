@@ -9,7 +9,7 @@ export default function Ceara()
             </p>
 
             <p>
-                <img src="" alt="" />
+                <img src="CE.jpg" alt="" />
             </p>
 
             <p><a href="/">Voltar para a Home</a></p>

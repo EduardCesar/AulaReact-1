@@ -60,6 +60,7 @@ export default function App()
                 <Route path="/ro" element={<Rondonia/>}/>
                 <Route path="/rr" element={<Roraima/>}/>
                 <Route path="/to" element={<Tocantins/>}/>
+                <Route path="/ap" element={<Amapa/>}/>
             </Routes>
         </BrowserRouter>
     );
