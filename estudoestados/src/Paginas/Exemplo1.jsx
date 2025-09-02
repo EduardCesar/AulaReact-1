@@ -3,7 +3,29 @@ export default function Exemplo1() {
     <div>
       <h1>Exemplo 1</h1>
 
-      
+      <div className="conteudo">
+        <h3>Exemplo de uso do UseState</h3>
+
+        <p>
+          O objetivo será somar dois números e exibir o resutado na tela.
+        </p>
+
+      <form>
+        <p>
+          Digite o primeiro Número <br />
+          <input type="text" />
+        </p>
+
+        <p>
+          Digite o segundo Número <br />
+          <input type="text" />
+        </p>
+
+        <p>
+          <input type="button" value="Calcular" />
+        </p>
+      </form>
+      </div>
     </div>
   );
 }
