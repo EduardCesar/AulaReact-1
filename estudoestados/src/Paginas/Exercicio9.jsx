@@ -1,16 +1,16 @@
-export default function Exercicio3() {
+export default function Exercicio9() {
     return (
       <div>
-        <h1>Exercício 3</h1>
+        <h1>Exercício 9</h1>
   
       <div className="conteudo">
-        <h3> Calculo prestação</h3>
+        <h3> Calculo juros simples</h3>
   
         <p></p>
   
         <form>
           <p>
-            Digite o valor da prestação <br />
+            Digite o principal <br />
             <input type="text" />
           </p>
   
@@ -20,13 +20,13 @@ export default function Exercicio3() {
           </p>
 
           <p>
-            Digite o tempo ( em dias ) de atraso <br />
+            Digite o tempo <br />
             <input type="text" />
           </p>
   
   
           <p>
-            <input type="button" value="Exercicio3" />
+            <input type="button" value="Exercicio9" />
           </p>
         </form>
   

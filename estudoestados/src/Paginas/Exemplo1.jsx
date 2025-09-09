@@ -25,6 +25,7 @@ export default function Exemplo1() {
           <input type="button" value="Calcular" />
         </p>
       </form>
+      <p><a href="/">Voltar para a Home</a></p>
       </div>
     </div>
   );

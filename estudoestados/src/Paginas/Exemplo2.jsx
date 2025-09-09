@@ -24,6 +24,7 @@ export default function Exemplo2() {
         </p>
       </form>
 
+      <p><a href="/">Voltar para a Home</a></p>
     </div>
     </div>
   );
